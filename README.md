@@ -17,22 +17,22 @@ Clear button to clear the text present in the text field.
 
 This project brushes up the knowledge of Data Structures as well. Used the right Ds for optimised solution.
 
-src.document.Document.java, src.document.BasicDocument.java                     Strings
+src.document.Document.java, src.document.BasicDocument.java       ----              Strings
 
-src.document.EfficientDocument.java                                             Efficiency Analysis and Benchmarking
+src.document.EfficientDocument.java        ----           Efficiency Analysis and Benchmarking
 
-textgen.MyLinkedList*.java                                                      Interfaces, Linked Lists vs. Arrays, and Correctness
-textgen.MarkovTextGenerator.java
-textgen.MarkovTextGenerator*.java
+textgen.MyLinkedList*.java, textgen.MarkovTextGenerator.java, textgen.MarkovTextGenerator*.java    ----     Interfaces, Linked Lists vs. Arrays, and Correctness
 
-spelling.SpellingSuggest.java                                                   Trees (including Binary Search Trees and Tries)
+
+
+spelling.SpellingSuggest.java   ----                                                Trees (including Binary Search Trees and Tries)
 spelling.AutoComplete.java
 spelling.Dictionary.java
 spelling.Dictionary*.java
 spelling.AutoCompleteDictionaryTrie.java
 spelling.TrieNode.java
 
-spelling.WordPath.java                                                          Hash Maps and Edit Distance
+spelling.WordPath.java             -----                                             Hash Maps and Edit Distance
 spelling.NearbyWords.java
 spelling.WPTree.java
 

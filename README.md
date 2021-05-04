@@ -25,15 +25,15 @@ textgen.MyLinkedList*.java, textgen.MarkovTextGenerator.java, textgen.MarkovText
 
 
 
-spelling.SpellingSuggest.java   ----                                                Trees (including Binary Search Trees and Tries)
-spelling.AutoComplete.java
-spelling.Dictionary.java
-spelling.Dictionary*.java
-spelling.AutoCompleteDictionaryTrie.java
-spelling.TrieNode.java
+spelling.SpellingSuggest.java, spelling.AutoComplete.java, spelling.Dictionary.java, spelling.Dictionary*.java, spelling.AutoCompleteDictionaryTrie.java, spelling.TrieNode.java   ----    Trees (including Binary Search Trees and Tries)
 
-spelling.WordPath.java             -----                                             Hash Maps and Edit Distance
-spelling.NearbyWords.java
-spelling.WPTree.java
+
+
+
+
+
+spelling.WordPath.java, spelling.NearbyWords.java, spelling.WPTree.java        -----    Hash Maps and Edit Distance
+
+
 
 
